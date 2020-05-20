@@ -1,4 +1,4 @@
-# COVID19-India API
+# API-Covid19.tk API
 
 A volunteer-driven, crowdsourced database for COVID-19 stats & patient tracing in India
 
